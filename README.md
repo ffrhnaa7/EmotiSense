@@ -1,5 +1,4 @@
-# EmotiSense - Real-Time Facial Expression Detection with LLM & Open Source
-
+# EmotiSense - Real-Time Facial Expression Detection 
 A simple AI project that detects facial expressions using pre-trained models and real-time webcam input.
 
 ## **Overview**
